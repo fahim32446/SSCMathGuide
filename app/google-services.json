@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754492940065",
+    "project_id": "ssc-math-ec9b7",
+    "storage_bucket": "ssc-math-ec9b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754492940065:android:cb18fef3db78c01af6a860",
+        "android_client_info": {
+          "package_name": "com.chomok.sscmathguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754492940065-1fnhssv7vh16lidka52bvq34cplqns87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQtWCS7j15dTk1x2SlFm5oske9FV8xldU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754492940065-1fnhssv7vh16lidka52bvq34cplqns87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

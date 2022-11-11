@@ -1,0 +1,70 @@
+plugins {
+    id 'com.android.application'
+    id 'com.google.gms.google-services'
+}
+
+android {
+    compileSdk 31
+
+    defaultConfig {
+        applicationId "com.chomok.sscmathguide"
+        minSdk 21
+        targetSdk 31
+        versionCode 23
+        versionName "23"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+
+            minifyEnabled true
+            shrinkResources true
+            //proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+
+    implementation 'androidx.appcompat:appcompat:1.4.1'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.3'
+    testImplementation 'junit:junit:4.+'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.3'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+    implementation 'com.github.barteksc:android-pdf-viewer:2.8.2'
+    implementation "com.airbnb.android:lottie:3.4.0"
+
+    implementation 'com.google.firebase:firebase-core:20.1.0'
+    implementation 'com.google.firebase:firebase-database:20.0.3'
+    implementation 'com.google.firebase:firebase-ads:20.6.0'
+    implementation 'com.firebase:firebase-client-android:2.5.1'
+
+//  implementation 'com.google.android.gms:play-services-ads:21.0.0'
+
+//    implementation 'com.github.myinnos:Android-InApp-Update:BETA-0.2'
+    implementation 'com.google.android.play:core:1.10.3'
+
+    implementation 'com.github.1902shubh:AdmobOpenAds:1.0.1'
+
+
+
+//  implementation  'com.google.ads.mediation:facebook:6.11.0.0'
+//    implementation 'androidx.annotation:annotation:1.0.0'
+//    implementation 'com.facebook.android:audience-network-sdk:6.+'
+
+
+    implementation 'com.google.android.material:material:1.6.1'
+
+
+
+
+
+}

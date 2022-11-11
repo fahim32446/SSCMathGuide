@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">SSC Math Guide</string>
+    <string name="book">Book</string>
+    <string name="title">SSC General Math Guide</string>
+
+
+
+<!--    <string name="admob_APP_ID">ca-app-pub-4273229953550397~5592234617</string>-->
+<!--    <string name="admob_BANNER_UNIT_ID">/211182487/ca-mb-app-pub-2726428685015992/com.chomok.sscmathguide_Banner</string>-->
+<!--    <string name="admob_INTERSTITIAL_UNIT_ID">/211182487/ca-mb-app-pub-2726428685015992/com.chomok.sscmathguide_Interstitial</string>-->
+<!--    <string name="admob_APP_OPEN_ADS_ID">/211182487/ca-mb-app-pub-2726428685015992/com.chomok.sscmathguide_AppOpen</string>-->
+
+
+    <string name="admob_APP_ID">ca-app-pub-8925737559456961~6383929031</string>
+    <string name="admob_BANNER_UNIT_ID">ca-app-pub-8925737559456961/2928834216</string>
+    <string name="admob_INTERSTITIAL_UNIT_ID">ca-app-pub-8925737559456961/1615752546</string>
+
+
+
+    <!--Test Ads -->
+<!--    <string name="admob_APP_ID">ca-app-pub-3940256099942544~3347511713</string>-->
+<!--    <string name="admob_BANNER_UNIT_ID">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--    <string name="admob_INTERSTITIAL_UNIT_ID">ca-app-pub-3940256099942544/1033173712</string>-->
+
+
+
+
+
+        //test fb ads
+<!--    <string name="facebook_BANNER_UNIT_ID">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>-->
+<!--    <string name="facebook_INTERSTITIAL_UNIT_ID">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>-->
+
+
+
+<!--    <string name="facebook_BANNER_UNIT_ID">1166181313914545_1166184877247522</string>-->
+<!--    <string name="facebook_INTERSTITIAL_UNIT_ID">1166181313914545_1166185023914174</string>-->
+
+
+
+<!--    // strings [For Flexibale Update]-->
+    <string name="in_app_snack_bar_message">Update almost finished!</string>
+    <string name="in_app_snack_bar_action_title">RESTART</string>
+
+
+    <!--    <string name="appLovin_APP_ID">iLdT6Xdw1dD7yJaZCHp0t1AkTa3QGuoR2RICkVRmTm3T9EXNTe8HVKHTDPE0xe3wppp-8SXv3S-SX7J_3nd6S6</string>-->
+<!--    <string name="AppLobanner">2e293169e377168b</string>-->
+<!--    <string name="Applointerstitial">7e2f2eefa6a44407</string>-->
+
+
+</resources>
